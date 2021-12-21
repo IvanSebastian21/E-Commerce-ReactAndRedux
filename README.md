@@ -1,4 +1,4 @@
-#Aplicacion Web Frontend Developer: Creada con React & Redux
+# Aplicacion Web Frontend Developer: Creada con React & Redux
 [_Enlace_](https://www.linkedin.com/feed/update/urn:li:activity:6861753312023248896/)
 ## ¿En que consiste la App?  
 Desarrollo de una SPA (Single Page Application) utilizando React para el frontEnd y Redux como state management. Todos los componentes fueron desarrollados con CSS empleando Semantic UI como framework para crear el 
@@ -43,8 +43,9 @@ Una vez descargado el proyecto, correr por consola `npm install`, luego `npm sta
     Javascript <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"/>  |
     html5 <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"/> |
     css3 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/> |
-    bootstrap5 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"/> |
-    handlebarsJS <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://i.morioh.com/0026584323.png"/> | 
+    React <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"/> | 
+    Redux <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635267893/readme/pngwing.com_2_jzoj50.png"/> |
+    Semantic UI <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://react.semantic-ui.com/logo.png"/> |
     <h2>
          
   
